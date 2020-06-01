@@ -1,0 +1,125 @@
+
+.mainpage{
+    color:black;
+  }
+  ul{
+    padding-left: 6%;
+  }
+  .points{
+    font-weight: 300;
+  }
+  .infob{
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  .resize{
+    padding-left: 70px;
+    margin-left: 70px;
+  }
+  .border-box{
+    width: 80%;
+    height: 55%;
+    border: 2px solid black;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-width: thin;
+  }
+  .variant-attribute-lable{
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    font-size: 18.5px;
+    line-height: 25px;
+    margin-bottom: 0;
+    font-weight: bold;
+  }
+  .more-info-icon-lable{
+    content: " ";
+    display: block;
+    float: left;
+  }
+  .textbutton{
+     width: 80%;
+     height:40px;
+     margin-left: 10%;
+     margin-bottom: 4%;
+     display:inline-block;
+     border:2px solid #20B2AA;
+     border-width: thin;
+     opacity: 0.7;
+     font-weight: 600;
+     background: none;
+  }
+  .textbutton:hover{
+    background: #20B2AA;
+    color: white;
+  }
+  .size-selection{
+    height: 30px;
+    width: 30%;
+    margin-left: 10%;
+    margin-right: 9%;
+    margin-bottom: 4%;
+    background: none;
+    border:2px solid #20B2AA;
+    border-width: thin;
+    opacity: 0.7;
+    font-weight: 600;
+  }
+  .size-selection:hover{
+    background: #20B2AA;
+    color: white;
+  }
+  .eyelets{
+    height: 16%;
+  }
+  .callout-bar{
+    background: green;
+    color: white;
+    border: none;
+    font-size: x-small;
+    position: absolute;
+    display: inline-block;
+    margin-top: -15px;
+    width: 22.5%;
+    margin-left: -38px;
+  }
+  img{
+    display: block;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    box-shadow: 1px 1px 3px black;
+  }
+  .quantity{
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    font-size: 18.5px;
+    line-height: 25px;
+    margin-bottom: 0;
+    font-weight: 500; 
+    margin-right: 20px;
+  }
+  .family{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .select{
+    width: 120px;
+    height: 35px;
+    margin-left: 20px;
+  }
+  .price-variant{
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    font-size: 18.5px;
+    line-height: 25px;
+    margin-bottom: 0;
+    font-size: 1.6rem;
+    font-weight: 500;
+  }
